@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<site>
+
+	<images interval="2000">
+		<i>
+			<filename>image01.jpg</filename>
+			<title><![CDATA[<b>NO.1</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+		<i>
+			<filename>image02.jpg</filename>
+			<title><![CDATA[<b>NO.2</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+		<i>
+			<filename>image03.jpg</filename>
+			<title><![CDATA[<b>NO.3</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+		<i>
+			<filename>image04.jpg</filename>
+			<title><![CDATA[<b>NO.4</b>]]></title>
+			<description><![CDATA[Hello]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+		<i>
+			<filename>image05.jpg</filename>
+			<title><![CDATA[<b>NO.5</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+		<i>
+			<filename>image06.jpg</filename>
+			<title><![CDATA[<b>NO.6</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+		<i>
+			<filename>image07.jpg</filename>
+			<title><![CDATA[<b>Leafbug</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+				<i>
+			<filename>image08.jpg</filename>
+			<title><![CDATA[<b>NO.8</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+				<i>
+			<filename>image09.jpg</filename>
+			<title><![CDATA[<b>NO.9</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+				<i>
+			<filename>image10.jpg</filename>
+			<title><![CDATA[<b>NO.10</b>]]></title>
+			<description><![CDATA[This is HTML formatted text wich can support <font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+				<i>
+			<filename>image11.jpg</filename>
+			<title><![CDATA[<b>NO.11</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+				<i>
+			<filename>image12.jpg</filename>
+			<title><![CDATA[<b>NO.12</b>]]></title>
+			<description><![CDATA[<font color="#0099FF">布艺</font>]]></description>
+			<!--<link>http://www.flashden.net</link>-->
+		</i>
+	</images>
+	
+</site>

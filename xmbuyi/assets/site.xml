@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<site>
+
+	<title>橡马布艺</title>
+	
+	<background>
+		<color>0x111111</color>
+	</background>
+	
+	<analytics enabled="true" />
+	
+	
+	<audio>
+<!--	
+		<a title="01 - Cloudless Days" filename="content/audio/adg3.com_cloudlessDays.mp3" />
+		<a title="02 - Busted Chump" filename="content/audio/adg3.com_bustedChump.mp3" />
+		<a title="03 - Chucked Knuckles" filename="content/audio/adg3.com_chuckedKnuckles.mp3" />
+-->		
+	</audio>
+	
+	
+	<menu startContent="home">
+		<m>
+			<text>首页</text>
+			<content>assets/slideshow/slideshow.swf</content>
+			<content_path>content/slideshow</content_path>
+			<content_handle_loader>true</content_handle_loader>
+			<transition>LeftToRight</transition>
+			<deepLink>home</deepLink>
+		</m>
+		<m>
+					<text>公司简介</text>
+					<content>assets/text/text.swf</content>
+					<content_path>content/text/welcome</content_path>
+					<content_handle_loader>true</content_handle_loader>
+					<bg isPattern="true">content/text/simple page/bg1.gif</bg>
+					<transition>Zoom</transition>
+					<deepLink>welcome</deepLink>
+		</m>
+		<m>
+					<text>新闻介绍</text>
+					<content>assets/text/text.swf</content>
+					<content_path>content/text/simple page</content_path>
+					<content_handle_loader>true</content_handle_loader>
+					<bg isPattern="true">content/text/simple page/bg1.gif</bg>
+					<transition>LeftToRight</transition>
+					<deepLink>text</deepLink>
+		</m>
+		<m>
+			<text>作品展示</text>
+			<content>assets/gallery/gallery.swf</content>
+<!--	<content_path>content/gallery/3dabstract</content_path>
+			<content_handle_loader>true</content_handle_loader>
+			<deepLink>image-gallery</deepLink>
+-->			
+<!--			
+			<submenu>
+				<m>
+					<text>麂皮绒系列</text>
+					<content>assets/gallery/gallery.swf</content>
+					<content_path>content/gallery/nature_wm</content_path>
+					<content_handle_loader>true</content_handle_loader>
+					<deepLink>nature</deepLink>
+				</m>
+				<m>
+					<text>春亚纺系列</text>
+					<content>assets/gallery/gallery.swf</content>
+					<content_path>content/gallery/animals_wm</content_path>
+					<content_handle_loader>true</content_handle_loader>
+					<deepLink>animals</deepLink>
+				</m>
+				<m>
+					<text>桃皮绒系列</text>
+					<content>assets/gallery/gallery.swf</content>
+					<content_path>content/gallery/architecture_wm</content_path>
+					<content_handle_loader>true</content_handle_loader>
+					<deepLink>architecture</deepLink>
+				</m>
+			</submenu>
+-->			
+		</m>
+		<m>
+			<text>精品展示</text>
+			<content>assets/hgallery/hgallery.swf</content>
+			<content_path>content/horizontal-gallery/3dabstract</content_path>
+			<content_handle_loader>true</content_handle_loader>
+			<transition>TopToBottom</transition>
+			<deepLink>horizontal-gallery</deepLink>
+		</m>
+		<m>
+			<text>图片展示</text>
+			<content>content/gallery/3dabstract/w720/abstract04.jpg</content>
+			<align>center</align>
+			<deepLink>more-features</deepLink>
+		</m>
+		<m>
+			<text>联系方式</text>
+<!--			
+			<content>assets/contact/contact.swf</content>
+			<content_path>assets/contact/assets/</content_path>
+			<content_handle_loader>true</content_handle_loader>
+			<transition>RightToLeft</transition>
+			<deepLink>contact</deepLink>
+-->			
+			<content>content/gallery/3dabstract/w720/address/address.png</content>
+			<align>center</align>
+			<deepLink>address</deepLink>
+		</m>
+	</menu>
+
+</site>
