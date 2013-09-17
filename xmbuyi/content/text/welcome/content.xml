@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<site>
+	<text minwidth="728">
+		<block layout="vertical">
+			
+			<block padding="20">
+				<textblock />
+			</block>
+			
+			<block align="center">
+				
+				<block width="80%" bgColor="0xffffff" bgAlpha="0.5">
+					<block layout="vertical">
+						<!-- FIRST BLOCK -->
+						<block spacing="10">
+							<!-- HEADLINE -->
+							<block width="65%" bgColor="0x777777" spacing="10" href="#/text/" target="_self">
+								<block layout="vertical">
+									<block padding="0">
+										<textblock>
+											<![CDATA[<font size="20" color="#e7e7e7">公司简介</font><br><font color="#e7e7e7" size="22"><b>橡马布艺</b></font> ]]>
+										</textblock>
+									</block>
+									
+									<!-- SPACE -->
+									<block padding="4">
+										<textblock />
+									</block>
+									
+									<block>
+										<!-- Image -->
+										<block padding="10" borderColor="0x555555">
+											<imageblock src="A.jpg" />
+											
+										</block>	
+										<!-- SPACE -->
+										<block width="10" />
+										
+										<!-- Text -->
+										<block padding="0">
+											<textblock>
+												<![CDATA[<font size="13" color="#e7e7e7">暂无<br><br>联系人：马智<br><br>电话: +86-769-82681880<br><br>E-mail：mazhi-1985@163.com <br></font> ]]>
+											</textblock>
+										</block>
+									</block>
+									
+								</block>
+								
+							</block>
+							
+							<!-- FEATURED -->
+							<block bgColor="0x777777" spacing="10">
+								<block layout="vertical">
+									<block padding="0">
+										<textblock>
+											<![CDATA[<font size="20" color="#e7e7e7">精品</br></font>]]>
+										</textblock>
+									</block>
+									
+									<!-- SPACE -->
+									<block padding="1">
+										<textblock />
+									</block>
+									
+									<!-- Item -->
+									<block>
+										<block>
+											<imageblock src="001.jpg" />
+										</block>
+										
+										<block width="10" />
+										
+										<block padding="0">
+											<textblock>
+												<![CDATA[<font size="12" color="#e7e7e7"><b>精品 1</b><br>精品1</font>]]>
+											</textblock>
+										</block>
+									</block>
+									
+									<!-- SPACE -->
+									<block padding="5">
+										<textblock />
+									</block>
+									
+									<!-- Item -->
+									<block>
+										<block>
+											<imageblock src="002.jpg" />
+										</block>
+										
+										<block width="10" />
+										
+										<block padding="0">
+											<textblock>
+												<![CDATA[<font size="12" color="#e7e7e7"><b>精品 2</b><br>精品2</font>]]>
+											</textblock>
+										</block>
+									</block>
+									
+									<!-- SPACE -->
+									<block padding="5">
+										<textblock />
+									</block>
+									
+									<!-- Item -->
+									<block>
+										<block>
+											<imageblock src="003.jpg" />
+										</block>
+										
+										<block width="10" />
+										
+										<block padding="0">
+											<textblock>
+												<![CDATA[<font size="12" color="#e7e7e7"><b>精品 3</b><br>精品3</font>]]>
+											</textblock>
+										</block>
+									</block>
+									
+									<!-- SPACE -->
+									<block padding="5">
+										<textblock />
+									</block>
+									
+									<!-- Item -->
+									<block>
+										<block>
+											<imageblock src="004.jpg" />
+										</block>
+										
+										<block width="10" />
+										
+										<block padding="0">
+											<textblock>
+												<![CDATA[<font size="12" color="#e7e7e7"><b>精品 4</b><br>精品4</font>]]>
+											</textblock>
+										</block>
+									</block>
+									
+								</block>
+								
+							</block>
+						</block>
+						
+						<!-- SECOND BLOCK -->
+						<block layout="vertical">
+							<block>
+								<block width="10" />
+								<!-- ITEMS -->
+								<block bgColor="0x777777" spacing="10">
+									<block>
+										<block padding="0">
+											<textblock>
+												<![CDATA[<font size="14" color="#ffff00"><b>橡马布艺欢迎您！</b></font><br><font size="12" color="#e7e7e7">联系人：马智</font><br><font size="12" color="#e7e7e7">电话: +86-769-82681880</font> ]]>
+											</textblock>
+										</block>					
+									</block>
+								</block>
+								
+								<block width="10" />
+							</block>
+							
+							<block padding="3">
+								<textblock />
+							</block>
+							
+						</block>
+						
+					</block>
+				</block>
+				
+			</block>
+			
+		</block>
+	</text>
+</site>

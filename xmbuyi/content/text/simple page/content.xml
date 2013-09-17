@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<site>
+
+	<text minwidth="" align="center">
+		<block width="80%" layout="vertical">
+		
+			<block padding="3">
+				<textblock />
+			</block>
+			
+			<block bgColor="0xffffff" bgAlpha="0.5" ellipseWidth="10">
+				
+				<block layout="vertical" spacing="10">
+					
+					<block>
+						<textblock>
+							<![CDATA[<font size="40" color="#e7e7e7">新闻中心</font><br><br> ]]>
+						</textblock>
+					</block>
+				</block>
+				
+			</block>
+			
+			<block padding="3">
+				<textblock />
+			</block>
+			
+			<block>
+					<block bgColor="0xffaa00" bgAlpha="1" ellipseWidth="10" border="3" borderAlpha="1" borderColor="0x0066ff">
+						<textblock>
+							<![CDATA[<p align="center"><font size="14" color="#333333">2011(秋)深圳国际家纺展将于8月在深圳会展中心举行</font><br>2011年8月1日</font><br><br>2011(秋)深圳国际家纺布艺暨墙纸家居饰品展览会将于8月3日至5日在深圳会展中心举行。整体软装饰是家居消费潮流的趋势。因此家具、家居面料成为今年展出的重要产品门类之一。本届展会将汇聚皮革、绒布、棉麻等多种面料，适用于各种风格的软体家具。据悉，深圳家纺布艺展将邀请来自家纺布艺、家居饰品、墙纸墙布、涂料软包、装饰配件等软装的各个门类的企业参展，对产品配套研发设计、生产营销进行跨界交流合作，营造多种风格家居情景，刺激消费。参展企业之间跨企业、跨行业的合作设计开发，有助于更精准、稳妥地把握家居时尚风格。更有多家率先涉足整体软装领域的高端企业，携品牌全线自有产品参展，完整展出多风格家居系列。</p>]]>
+						</textblock>
+					</block>
+				
+					<block width="10" />
+					
+					<block bgColor="0xffaa00" bgAlpha="1" ellipseWidth="10" border="2" borderAlpha="0.5">
+						<textblock>
+							<![CDATA[<p align="center"><font size="14" color="#333333">2011年窗帘刮起混搭风</font><br>2011年8月1日</font><br><br>布置家居的软装饰中，窗帘可以大作文章，为了独具生气的家居，明快、清新色彩的布艺窗帘的可以让你的家居面目焕然一新。小碎花窗帘＋小方格窗帘，两种窗帘同时出现也能搭配出好的效果，一种暖洋洋的闲适心情在这里毫不掩饰地蔓延开来，原来，春天就是这样。条状内帘与花朵团簇的外帘，交叉式设计增添了视觉亮点。同花色靠垫＋白色靠垫叠加摆放，增加了层次感。<br><br><br></p>]]>
+						</textblock>
+					</block>
+				
+			</block>
+			
+			<block padding="3">
+				<textblock />
+			</block>
+			
+			<block>
+					<block bgColor="0xffaa00" bgAlpha="1" ellipseWidth="10" border="2" borderAlpha="0.5">
+						<textblock>
+							<![CDATA[<p align="center"><font size="14" color="#333333">暂无</font><br></font><br><br><br><br>暂无<br><br></p>]]>
+						</textblock>
+					</block>
+					
+					<block width="10" />
+					
+					<block bgColor="0xffaa00" bgAlpha="1" ellipseWidth="10" border="3" borderAlpha="1" borderColor="0x0066ff">
+						<textblock>
+							<![CDATA[<p align="center"><font size="14" color="#333333">暂无</font><br></font><br><br><br><br>暂无<br><br></p>]]>
+						</textblock>
+					</block>
+					
+			</block>
+			
+		</block>
+	</text>
+</site>
